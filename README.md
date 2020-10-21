@@ -10,8 +10,12 @@
   <img src="https://img.shields.io/github/license/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Licença MIT">
 </p>
 
+
 <!--Banner session-->
-<img src="./assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
+<p align="center">
+  <img src="./assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
+</p>
+
 
 <!--About session-->
 <h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
@@ -28,7 +32,7 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 <i>PS.: todos os links deste clone retornam para a mesma página.</i>
 
-<img src="./assets/img/projeto.gif" title="Clone NetFlix - DIO">
+<p align="center"><img src="./assets/img/projeto.gif" title="Clone NetFlix - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
