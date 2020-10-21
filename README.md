@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/clone-interface-netflix?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/clone-interface-netflix?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/clone-interface-netflix?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/clone-interface-netflix?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
@@ -28,9 +28,7 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 <i>PS.: todos os links deste clone retornam para a mesma página.</i>
 
-- [Projeto desenvolvido]()
-
-<img src="./assets/img/projeto.png" title="Clone NetFlix - DIO">
+<img src="./assets/img/projeto.gif" title="Clone NetFlix - DIO">
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
