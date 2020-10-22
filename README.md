@@ -13,7 +13,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
+  <img src="./src/assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 
@@ -22,7 +22,7 @@
 
 Curso do Bottcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="./assets/img/badge-curso.png" title="Badge" widht="70" height="70">
+<img src="./src/assets/img/badge-curso.png" title="Badge" widht="70" height="70">
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
@@ -32,7 +32,7 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 <i>PS.: todos os links deste clone retornam para a mesma página.</i>
 
-<p align="center"><img src="./assets/img/projeto.gif" title="Clone NetFlix - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
