@@ -32,6 +32,8 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 <i>PS.: todos os links deste clone retornam para a mesma página.</i>
 
+- [Projeto desenvolvido](https://clone-netflix.vercel.app/)
+
 <p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
 
 
