@@ -110,6 +110,7 @@ header nav a:hover {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
     font-size: 15px;    
     margin-top: 25px;
     margin-bottom: 15px;

@@ -20,9 +20,9 @@
 <!--About session-->
 <h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
 
-Curso do Bottcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="./src/assets/img/badge-curso.png" title="Badge" widht="70" height="70">
+<img src="./src/assets/img/badge-curso.png" title="Badge" width="70" height="70">
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
@@ -35,6 +35,7 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 - [Projeto desenvolvido](https://clone-netflix.vercel.app/)
 
 <p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone Netflix - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
@@ -51,4 +52,4 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
